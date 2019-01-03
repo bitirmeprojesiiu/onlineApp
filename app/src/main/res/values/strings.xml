@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OnlineInt</string>
+    <string name="START">START</string>
+    <string name="CHECK">CHECK</string>
+    <string name="EXIT">EXIT</string>
+    <string name="NEXT">NEXT</string>
+    <string name="NAME">NAME</string>
+    <string name="SURNAME">SURNAME</string>
+    <string name="MAIL">MAIL</string>
+    <string name="TC">TC</string>
+    <string name="SEND">SEND</string>
+    <string name="PHONE_NUMBER">PHONE NUMBER</string>
+    <string name="BACK">BACK</string>
+    <string name="ENTER_EXAM_PASSWORD">ENTER EXAM PASSWORD</string>
+    <string name="ENTER_EXAM_ID">ENTER EXAM ID</string>
+    <string name="title_activity_last_page">last_page</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
